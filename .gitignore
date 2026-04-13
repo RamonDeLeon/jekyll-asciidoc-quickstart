@@ -3,3 +3,5 @@
 /.bundle/
 /.jekyll-cache/
 /Gemfile.lock
+/node_modules/
+/dist/
